@@ -12,8 +12,7 @@ Data Engineering & Python Portfolio: <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&logoWidth=20" alt="Python" height="22">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white&logoWidth=20" alt="SQL" height="22">
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white&logoWidth=20" alt="PostgreSQL" height="22">
-<img src="https://img.shields.io/badge/Greenplum-00A98F?style=flat&logo=greenplum&logoColor=white&logoWidth=20" alt="Greenplum" height="22">
-<img src="https://img.shields.io/badge/ClickHouse-FFCC02?style=flat&logo=clickhouse&logoColor=black&logoWidth=20" alt="ClickHouse" height="22"><br>
+<img src="https://img.shields.io/badge/Greenplum-00A98F?style=flat&logo=greenplum&logoColor=white&logoWidth=20" alt="Greenplum" height="22"><br>
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white&logoWidth=20" alt="Airflow" height="22">
 <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white&logoWidth=20" alt="Kafka" height="22">
 <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white&logoWidth=20" alt="Spark" height="22">
