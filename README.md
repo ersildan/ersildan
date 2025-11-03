@@ -6,7 +6,7 @@ My core competencies include data modeling, warehouse design, and workflow orche
 I am focused on creating efficient and reliable data solutions.
 
 Data Engineering & Python Portfolio: <br>
-• [📁 Code Portfolio](https://github.com/ersildan/Code-Portfolio)
+• [📁 Portfolio](https://github.com/ersildan/Code-Portfolio)
 
 **Technical Stack**<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&logoWidth=20" alt="Python" height="22">
