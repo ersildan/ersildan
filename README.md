@@ -6,9 +6,9 @@ My core competencies include data modeling, warehouse design, and workflow orche
 I am focused on creating efficient and reliable data solutions.
 
 #### Data Engineering & Python Portfolio: <br>
-[📁 **Portfolio**](https://github.com/ersildan/Code-Portfolio) - The main portfolio.<br>
-[📊 **Anti-fraud ETL pipeline**](https://github.com/ersildan/anti-fraud-etl-pipeline) - A pipeline for fraud detection.<br>
-[🎮 **First Python Game**](https://github.com/ersildan/SlapGame-Python) - The first game project in the console.<br>
+📁 [**Portfolio**](https://github.com/ersildan/Code-Portfolio) - The main portfolio.<br>
+📊 [**Anti-fraud ETL pipeline**](https://github.com/ersildan/anti-fraud-etl-pipeline) - A pipeline for fraud detection.<br>
+🎮 [**First Python Game**](https://github.com/ersildan/SlapGame-Python) - The first game project in the console.<br>
 
 **Technical Stack**<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&logoWidth=20" alt="Python" height="22">
