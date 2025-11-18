@@ -19,7 +19,7 @@ I am focused on creating efficient and reliable data solutions.
 <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Hadoop-FFCC00?style=for-the-badge&logo=apachehadoop&logoColor=black" height="25"><br>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=jetbrains&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=jetbrains&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/DBeaver-8B7355?style=for-the-badge&logo=dbeaver&logoColor=white" height="25"><br>
