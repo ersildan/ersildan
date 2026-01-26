@@ -23,6 +23,8 @@ I am focused on creating efficient and reliable data solutions.
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/DBeaver-8B7355?style=for-the-badge&logo=dbeaver&logoColor=white" height="25"><br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25"><br>
 
 #### Contacts<br>
 [<img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" height="22">](https://t.me/ersildan)
